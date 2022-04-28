@@ -1,0 +1,25 @@
+{
+  "name": "firstnpm",
+  "version": "0.1.0",
+  "description": "My first NPM. Allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmedina63/danmedina-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "damedina63 <damedina63@gmail.com> (https://www.npmjs.com/~damedina63)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmedina63/danmedina-js-footer/issues"
+  },
+  "homepage": "https://github.com/danmedina63/danmedina-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
